@@ -18,7 +18,7 @@ struct FrameworkIconView: View {
                 .font(.title2)
                 .scaledToFit()
                 .fontWeight(.semibold)
-                .minimumScaleFactor(0.6)
+                .minimumScaleFactor(0.5)
                 
         }
     }
