@@ -1,1 +1,1 @@
-[![App Demo](https://youtube.com/shorts/nq5l-ocYoSE?feature=share)](https://youtube.com/shorts/nq5l-ocYoSE?feature=share)
+[![App Demo](https://www.youtube.com/watch?v=nq5l-ocYoSE)
